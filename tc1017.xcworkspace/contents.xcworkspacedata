@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "EF">
+      <FileRef
+         location = "group:EF_P1/EF_P1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:EF_P2/EF_P2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:EF_P3/EF_P3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:EF1_P2/EF1_P2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:EF3_P2/EF3_P2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:EF2_P2/EF2_P2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:EF1_P1/EF1_P1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:EF2_P1/EF2_P1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:EF3_P1/EF3_P1.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Tema 12">
+      <FileRef
+         location = "group:t12c1e1/t12c1e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t12c2e1/t12c2e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t12c2e2/t12c2e2.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:3EP/3EP.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Tema 11">
+      <FileRef
+         location = "group:t11c1e1/t11c1e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t11c1e2/t11c1e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t11c1e3/t11c1e3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t11c2e1/t11c2e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t11c2e2/t11c2e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t11c2e3/t11c2e3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t11c2e4/t11c2e4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:secuencial_escritura/secuencial_escritura.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:secuencial_lectura/secuencial_lectura.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:aleatorio_escritura/aleatorio_escritura.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:lectura_aleatoria/lectura_aleatoria.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:aleatorio_actualiza/aleatorio_actualiza.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:aleatorio_a_secuencial/aleatorio_a_secuencial.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Tema 10">
+      <FileRef
+         location = "group:t10c1e1/t10c1e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t10c1e2/t10c1e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t10c1e3/t10c1e3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t10c1e4/t10c1e4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t10c2e1/t10c2e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t10c2e2/t10c2e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:AlumnosMaterias/AlumnosMaterias.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:universidades/universidades.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Tema 9">
+      <FileRef
+         location = "group:t9c1e1/t9c1e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c1e2/t9c1e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c1e3/t9c1e3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c2e1/t9c2e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c2e2/t9c2e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c2e3/t9c2e3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c3e1/t9c3e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c3e2/t9c3e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c3e3/t9c3e3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c3e4/t9c3e4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c1e1.2/t9c1e1.2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c1e1.3/t9c1e1.3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c1e1.4/t9c1e1.4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c1e1.5/t9c1e1.5.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c2e1.1/t9c2e1.1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ordenamientoBurbuja/ordenamientoBurbuja.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Tema 8">
+      <FileRef
+         location = "group:t8c1e1/t8c1e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t8c1e2/t8c1e2.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:2EP/2EP.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Tema 6">
+      <FileRef
+         location = "group:t6c1e1/t6c1e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t6c2e1/t6c2e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t6c2e2/t6c2e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejemplos printf/ejemplos printf.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Tema 5">
+      <FileRef
+         location = "group:t5c1e1/t5c1e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t5c2e1/t5c2e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t5c3e1/t5c3e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:contenedores/contenedores.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Tema 4">
+      <FileRef
+         location = "group:Ciclos/t4c2e2/t4c2e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Ciclos/t4c2e1-1/t4c2e1-1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Ciclos/t4c2e1/t4c2e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Ciclos/t4c1e2/t4c1e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Ciclos/Ciclos.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Ciclos/ejemplo_contador/ejemplo_contador.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Ciclos/escuela/escuela.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Ciclos/escuela_centinela/escuela_centinela.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Tema 3">
+      <FileRef
+         location = "group:Condicionales/t3c2e3/t3c2e3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Condicionales/t3c2e2/t3c2e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Condicionales/t3c2e1/t3c2e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Condicionales/Condicional Switch/Condicional Switch.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Condicionales/Condicionales.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Condicionales/t3c1e1/t3c1e1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Condicionales/t3c2e4/t3c2e4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Condicionales/t3c2e5/t3c2e5.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Tema 2">
+      <FileRef
+         location = "group:Aritme&#769;tica/Funciones/Funciones.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Aritme&#769;tica/Aritme&#769;tica.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>

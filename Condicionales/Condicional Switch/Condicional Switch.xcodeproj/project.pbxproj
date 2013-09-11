@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		81025C7E15E26D0F00734B48 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 81025C7D15E26D0F00734B48 /* main.c */; };
+		81025C8015E26D0F00734B48 /* Condicional_Switch.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 81025C7F15E26D0F00734B48 /* Condicional_Switch.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		81025C7715E26D0F00734B48 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				81025C8015E26D0F00734B48 /* Condicional_Switch.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		81025C7915E26D0F00734B48 /* Condicional Switch */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Condicional Switch"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81025C7D15E26D0F00734B48 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		81025C7F15E26D0F00734B48 /* Condicional_Switch.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Condicional_Switch.1; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		81025C7615E26D0F00734B48 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		81025C6E15E26D0F00734B48 = {
+			isa = PBXGroup;
+			children = (
+				81025C7C15E26D0F00734B48 /* Condicional Switch */,
+				81025C7A15E26D0F00734B48 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		81025C7A15E26D0F00734B48 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				81025C7915E26D0F00734B48 /* Condicional Switch */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		81025C7C15E26D0F00734B48 /* Condicional Switch */ = {
+			isa = PBXGroup;
+			children = (
+				81025C7D15E26D0F00734B48 /* main.c */,
+				81025C7F15E26D0F00734B48 /* Condicional_Switch.1 */,
+			);
+			path = "Condicional Switch";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		81025C7815E26D0F00734B48 /* Condicional Switch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 81025C8315E26D0F00734B48 /* Build configuration list for PBXNativeTarget "Condicional Switch" */;
+			buildPhases = (
+				81025C7515E26D0F00734B48 /* Sources */,
+				81025C7615E26D0F00734B48 /* Frameworks */,
+				81025C7715E26D0F00734B48 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Condicional Switch";
+			productName = "Condicional Switch";
+			productReference = 81025C7915E26D0F00734B48 /* Condicional Switch */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		81025C7015E26D0F00734B48 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = "Vicente Cubells Nonell";
+			};
+			buildConfigurationList = 81025C7315E26D0F00734B48 /* Build configuration list for PBXProject "Condicional Switch" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 81025C6E15E26D0F00734B48;
+			productRefGroup = 81025C7A15E26D0F00734B48 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				81025C7815E26D0F00734B48 /* Condicional Switch */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		81025C7515E26D0F00734B48 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81025C7E15E26D0F00734B48 /* main.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		81025C8115E26D0F00734B48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		81025C8215E26D0F00734B48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		81025C8415E26D0F00734B48 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		81025C8515E26D0F00734B48 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		81025C7315E26D0F00734B48 /* Build configuration list for PBXProject "Condicional Switch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				81025C8115E26D0F00734B48 /* Debug */,
+				81025C8215E26D0F00734B48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		81025C8315E26D0F00734B48 /* Build configuration list for PBXNativeTarget "Condicional Switch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				81025C8415E26D0F00734B48 /* Debug */,
+				81025C8515E26D0F00734B48 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 81025C7015E26D0F00734B48 /* Project object */;
+}
