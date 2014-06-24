@@ -29,7 +29,7 @@ int main(int argc, const char * argv[])
     
     
     /* Cambiar la semilla del algoritmo de generación de números aleatorios */
-    srand(time(NULL));
+    srand((int) time(NULL));
     
     do {
         coche = (rand() % 4) + 1;
@@ -76,12 +76,24 @@ int main(int argc, const char * argv[])
     
     /* Termina el estacionamiento y se genera el reporte */
     printf("------ Reporte de funcionamiento -------\n");
-    printf("Autos por entrada 1 = %d y representa el %.2f\% \n", entrada1, porcentaje(entrada1, coches));
-    printf("Autos por entrada 2 = %d y representa el %.2f\% \n", entrada2, porcentaje(entrada2, coches));
-    printf("Autos por salida 1 = %d y representa el %.2f% \n", salida1, porcentaje(salida1, coches));
-    printf("Autos por salida 2 = %d y representa el %.2f% \n", salida2, porcentaje(salida2, coches));
+    float porc;
+    
+    porc = porcentaje(entrada1, coches);
+    printf("Autos por entrada 1 = %d y representa el %.2f %% \n", entrada1, porc);
+    
+    porc = porcentaje(entrada2, coches);
+    printf("Autos por entrada 2 = %d y representa el %.2f %% \n", entrada2, porc);
+    
+    porc = porcentaje(salida1, coches);
+    printf("Autos por salida 1 = %d y representa el %.2f %% \n", salida1, porc);
+    
+    porc = porcentaje(salida2, coches);
+    printf("Autos por salida 2 = %d y representa el %.2f %% \n", salida2, porc);
+    
     printf("Autos que utilizaron el estacionamiento = %d \n", coches);
+    
     printf("La entrada más usada = %d \n", mayor(entrada1, entrada2));
+    
     printf("La salida más usada = %d \n", mayor(salida1, salida2));
     
     return 0;

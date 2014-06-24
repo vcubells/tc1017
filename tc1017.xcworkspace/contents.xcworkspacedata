@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:../../../../../Desktop/reporte.xml">
+   </FileRef>
    <Group
       location = "container:"
       name = "EF">
@@ -170,6 +173,27 @@
       <FileRef
          location = "group:ordenamientoBurbuja/ordenamientoBurbuja.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:t9c1e4/t9c1e4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c1e5/t9c1e5.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c1e6/t9c1e6.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c1e7/t9c1e7.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c2e4/t9c2e4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c2e5/t9c2e5.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c2e6/t9c2e6.xcodeproj">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
@@ -179,6 +203,9 @@
       </FileRef>
       <FileRef
          location = "group:t8c1e2/t8c1e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t8c1e3/t8c1e3.xcodeproj">
       </FileRef>
    </Group>
    <FileRef
@@ -199,6 +226,18 @@
       <FileRef
          location = "group:ejemplos printf/ejemplos printf.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:t6c1e2/t6c1e2.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t6c2e3/t6c2e3.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t6c2e4/t6c2e4.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t6c2e5/t6c2e5.xcodeproj">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
@@ -214,6 +253,9 @@
       </FileRef>
       <FileRef
          location = "group:contenedores/contenedores.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t5c1e1-1/t5c1e1-1.xcodeproj">
       </FileRef>
    </Group>
    <Group
@@ -243,6 +285,21 @@
       <FileRef
          location = "group:Ciclos/escuela_centinela/escuela_centinela.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:factorial/factorial.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:menu_de_opciones/menu_de_opciones.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:promedio_con_contador/promedio_con_contador.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:promedio_con_centinela/promedio_con_centinela.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t4c2e2-1/t4c2e2-1.xcodeproj">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
@@ -271,15 +328,21 @@
       <FileRef
          location = "group:Condicionales/t3c2e5/t3c2e5.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:t3c1e1-1/t3c1e1-1.xcodeproj">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
       name = "Tema 2">
       <FileRef
-         location = "group:Aritme&#769;tica/Funciones/Funciones.xcodeproj">
+         location = "group:Aritme&#x301;tica/Funciones/Funciones.xcodeproj">
       </FileRef>
       <FileRef
-         location = "group:Aritme&#769;tica/Aritme&#769;tica.xcodeproj">
+         location = "group:Aritme&#x301;tica/Aritme&#x301;tica.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t2c1e1/t2c1e1.xcodeproj">
       </FileRef>
    </Group>
 </Workspace>

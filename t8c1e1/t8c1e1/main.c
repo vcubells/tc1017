@@ -11,13 +11,16 @@
 int main(int argc, const char * argv[])
 {
 
-    int id, opc;
+    int id, opc = 1;
     char nombre[30];
     float saldo;
     
     //Abrir un archivo
     FILE * fd;
-    fd = fopen("/Users/vcubells/cuentas.csv", "w");
+    fd = fopen("/Users/vcubells/Desktop/cuentas.csv", "w");
+    
+    // Escribir en el archivo los títulos
+    fprintf(fd,"%s,%s,%s\n", "No de Cuenta", "Cliente", "Saldo");
     
     do {
         printf("Entre el id de la cuenta: ");

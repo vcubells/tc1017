@@ -30,12 +30,12 @@ int main(int argc, const char * argv[])
         /* Comparar el valor de estado para acumular en la variable correspondiente */
         if (estado == 1)
         {
-            aprobados++;
+            ++aprobados;
             ++contador; /* Incrementar el contador del ciclo */
         }
         else if (estado == 2)
         {
-            reprobados++;
+            ++reprobados;
             ++contador; /* Incrementar el contador del ciclo */
         }
         else
@@ -63,3 +63,4 @@ int main(int argc, const char * argv[])
     
     return 0;
 }
+ 
