@@ -36,7 +36,7 @@ int main(int argc, const char * argv[])
            "S1", "S2", "S3", "S4", "S5",
            "E1", "E2", "E3");
     
-    for (dia = 23; dia <= 30; ++dia) {
+    for (dia = 1; dia <= 30; ++dia) {
         
         salida1 = salida2 = salida3 = salida4 = salida5 = 0;
         entrada1 = entrada2 = entrada3 = 0;
@@ -113,28 +113,28 @@ int main(int argc, const char * argv[])
     /* Histograma */
     printf("\n%3s\t%7s\n", "E/S", "Promedio");
     
-    printf("%3s\t%7d", "S1", salida1T / 8);
+    printf("%3s\t%7d\t", "S1", salida1T / 30);
     histograma(salida1T);
     
-    printf("%3s\t%7d", "S2", salida2T / 8);
+    printf("%3s\t%7d\t", "S2", salida2T / 30);
     histograma(salida2T);
     
-    printf("%3s\t%7d", "S3", salida3T / 8);
+    printf("%3s\t%7d\t", "S3", salida3T / 30);
     histograma(salida3T);
     
-    printf("%3s\t%7d", "S4", salida4T / 8);
+    printf("%3s\t%7d\t", "S4", salida4T / 30);
     histograma(salida4T);
     
-    printf("%3s\t%7d", "S5", salida5T / 8);
+    printf("%3s\t%7d\t", "S5", salida5T / 30);
     histograma(salida5T);
     
-    printf("%3s\t%7d", "E1", entrada1T / 8);
+    printf("%3s\t%7d\t", "E1", entrada1T / 30);
     histograma(entrada1T);
     
-    printf("%3s\t%7d", "E2", entrada2T / 8);
+    printf("%3s\t%7d\t", "E2", entrada2T / 30);
     histograma(entrada2T);
     
-    printf("%3s\t%7d", "E3", entrada3T / 8);
+    printf("%3s\t%7d\t", "E3", entrada3T / 30);
     histograma(entrada3T);
     
     return 0;
@@ -145,7 +145,7 @@ void histograma(int frecuencia)
 {
     int i;
     
-    frecuencia /= 8;
+    frecuencia /= 30;
     for (i = 0; i < frecuencia; ++i) {
         printf("-");
     }

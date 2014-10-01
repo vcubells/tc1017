@@ -30,7 +30,7 @@ int main(int argc, const char * argv[])
 {
     hotel registro[CIUDADES][HOTELES];
     
-    srand(time(NULL));
+    srand((int) time(NULL));
     
     llenaMatriz(registro);
     imprimeMatriz(registro);

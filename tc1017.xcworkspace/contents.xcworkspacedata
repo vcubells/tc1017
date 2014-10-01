@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:../../../../../Desktop/reporte.xml">
-   </FileRef>
    <Group
       location = "container:"
       name = "EF">
@@ -121,6 +118,15 @@
       <FileRef
          location = "group:universidades/universidades.xcodeproj">
       </FileRef>
+      <FileRef
+         location = "group:t10c1e5/t10c1e5.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t10c3e1.1/t10c3e1.1.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t10c3e2/t10c3e2.xcodeproj">
+      </FileRef>
    </Group>
    <Group
       location = "container:"
@@ -193,6 +199,12 @@
       </FileRef>
       <FileRef
          location = "group:t9c2e6/t9c2e6.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:t9c2e7/t9c2e7.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ejemplo/ejemplo.xcodeproj">
       </FileRef>
    </Group>
    <Group
