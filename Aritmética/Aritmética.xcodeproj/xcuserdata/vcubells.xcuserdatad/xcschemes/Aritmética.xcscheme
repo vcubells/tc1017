@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0440"
+   LastUpgradeVersion = "0510"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8144382C15DD1645008FEE7F"
-               BuildableName = "Aritme&#769;tica"
-               BlueprintName = "Aritme&#769;tica"
-               ReferencedContainer = "container:Aritme&#769;tica.xcodeproj">
+               BuildableName = "Aritme&#x301;tica"
+               BlueprintName = "Aritme&#x301;tica"
+               ReferencedContainer = "container:Aritme&#x301;tica.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8144382C15DD1645008FEE7F"
-            BuildableName = "Aritme&#769;tica"
-            BlueprintName = "Aritme&#769;tica"
-            ReferencedContainer = "container:Aritme&#769;tica.xcodeproj">
+            BuildableName = "Aritme&#x301;tica"
+            BlueprintName = "Aritme&#x301;tica"
+            ReferencedContainer = "container:Aritme&#x301;tica.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -52,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8144382C15DD1645008FEE7F"
-            BuildableName = "Aritme&#769;tica"
-            BlueprintName = "Aritme&#769;tica"
-            ReferencedContainer = "container:Aritme&#769;tica.xcodeproj">
+            BuildableName = "Aritme&#x301;tica"
+            BlueprintName = "Aritme&#x301;tica"
+            ReferencedContainer = "container:Aritme&#x301;tica.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -70,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8144382C15DD1645008FEE7F"
-            BuildableName = "Aritme&#769;tica"
-            BlueprintName = "Aritme&#769;tica"
-            ReferencedContainer = "container:Aritme&#769;tica.xcodeproj">
+            BuildableName = "Aritme&#x301;tica"
+            BlueprintName = "Aritme&#x301;tica"
+            ReferencedContainer = "container:Aritme&#x301;tica.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
